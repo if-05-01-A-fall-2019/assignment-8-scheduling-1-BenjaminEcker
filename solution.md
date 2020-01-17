@@ -1,9 +1,10 @@
-##Basic of Scheduling
-#1.)
+## Basic of Scheduling
+
+# 1.)
 
 Für eine Prozess wird vorher eine bestimmte Zeit festgelegt in der seine Sachen ausführen kann wenn er aber irgendwo blockiert wird er einfach gestoppt und muss sich als neuer Prozess hinten einreihen.
 
-#2.)
+# 2.)
 
 | Process |A | B | C | D | E | F | G | H |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
